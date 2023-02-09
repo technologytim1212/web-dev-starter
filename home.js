@@ -19,8 +19,15 @@ function swapout(){
 
 swapout();
 
+
+let array_owner =[ 4,5,776];
+
+
 console.log(car.manufacturer);
 console.log(car.colour);
 console.log(car.age);
 console.log(car.wheels);
+console.log(array_owner[2]);
+
+
 
