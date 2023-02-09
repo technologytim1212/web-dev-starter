@@ -3,7 +3,6 @@ let car = {
 
 manufacturer: 'Honda',
 colour: 'red',
-
 }
 
 
