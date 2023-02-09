@@ -6,7 +6,6 @@ colour: 'red',
 
 }
 
-console.log(car.manufacturer);
 
 function swapout(){
 
