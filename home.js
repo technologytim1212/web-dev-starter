@@ -4,7 +4,6 @@ let car = {
 manufacturer: 'Honda',
 colour: 'red',
 age: 45,
-wheels: 4,
 }
 
 
@@ -19,4 +18,4 @@ swapout();
 
 console.log(car.manufacturer);
 console.log(car.colour);
-console.log(car.wheels);
+console.log(car.age);
